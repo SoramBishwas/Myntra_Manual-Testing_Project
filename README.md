@@ -1,1 +1,1 @@
-# Myntra_Manual-Testing_Project
+# Myntra Manual-Testing Project
