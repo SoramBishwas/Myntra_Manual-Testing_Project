@@ -1,9 +1,14 @@
-Myntra Manual-Testing Project
+MYNTRA MANUAL-TESTING PROJECT
+**NAME:** SORAM BISHWAS
+**DOMAIN:** SOFTWARE TESTING
+**DURATION:** 27TH JULY 2024
+**COMPANY=** BESANT TECHNOLOGY
 
-Overview
+
+## OVERVIEW OF THE PROJECT
 This repository contains a comprehensive testing suite for the Myntra e-commerce platform. The suite covers critical functionalities of the website to ensure a seamless user experience, from loading the homepage to completing the checkout process.
 
-Test Cases
+## TEST CASES
 The test suite includes the following key test cases:
 
 Homepage Load Verification (TC01)
