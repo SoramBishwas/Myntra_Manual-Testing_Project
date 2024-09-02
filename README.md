@@ -60,3 +60,7 @@ Description: Checks for successful order placement and receipt of confirmation e
 Priority: High
 Steps: Place an order and verify the confirmation email is received.
 Expected Result: Order placement is successful and confirmation email is received.
+
+## OUTPUT
+![Screenshot 2024-07-27 163639](https://github.com/user-attachments/assets/cd828c6b-9bde-4ef6-9f1b-6ee5855282ca)
+
